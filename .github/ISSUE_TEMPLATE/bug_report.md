@@ -1,27 +1,28 @@
 ---
-name: Bug Report
+name: Bug report
 about: Create a report to help us improve
 title: '[BUG] '
 labels: bug
 ---
 
-## Describe the Bug
-A clear description of what the bug is.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-## Steps to Reproduce
-1. Go to '...'
-2. Run command '....'
-3. See error
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Run command '...'
+2. See error
 
-## Expected Behavior
-What you expected to happen.
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-## Environment
-- **OS**: [e.g., Ubuntu 20.04 ppc64le]
-- **Architecture**: [ppc64le / x86_64]
-- **Python Version**: [e.g., 3.8.10]
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-## Error Output
-```
-Paste error here
-```
+**Environment:**
+- OS: [e.g. macOS, Linux]
+- Hardware: [e.g. PowerPC G4, IBM POWER8]
+- Version: [e.g. v1.0.0]
+
+**Additional context**
+Add any other context about the problem here.

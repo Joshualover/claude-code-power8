@@ -1,19 +1,18 @@
 ---
-name: Feature Request
+name: Feature request
 about: Suggest an idea for this project
 title: '[FEATURE] '
 labels: enhancement
 ---
 
-## Problem Statement
-Is your feature request related to a problem?
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is.
 
-## Proposed Solution
-What you want to happen.
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-## Alternatives
-Any alternative solutions considered.
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-## Architecture Notes
-- [ ] Is this architecture-specific?
-- [ ] Will it work on ppc64le and x86_64?
+**Additional context**
+Add any other context or screenshots about the feature request here.

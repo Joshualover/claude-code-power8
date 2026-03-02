@@ -1,34 +1,27 @@
-# Contributing to Claude Code Power8
+# Contributing to claude-code-power8
 
-Thank you for your interest in contributing! This project targets **IBM POWER8** (ppc64le) architecture.
+Thank you for your interest in contributing! This document provides guidelines.
 
-## Quick Start
+## Getting Started
 
-### 1. Fork and Clone
-```bash
-git clone https://github.com/YOUR_USERNAME/claude-code-power8.git
-cd claude-code-power8
-```
-
-### 2. Create a Branch
-```bash
-git checkout -b feature/your-feature-name
-```
-
-### 3. Make Your Changes
-- Follow existing code style
-- Test on POWER8/ppc64le if possible
-
-### 4. Submit a Pull Request
-1. Push: `git push origin feature/your-feature-name`
-2. Open PR on GitHub
-3. Wait for review
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
 
 ## Code Style
-- Python: PEP 8
-- Commits: conventional commits
 
-## Architecture Notes
-This project is for **IBM POWER8** (ppc64le). Mention your test environment in PRs.
+- Follow existing code conventions
+- Write clear, descriptive commit messages
+- Add comments for complex logic
 
-Thanks for contributing! 🚀
+## Pull Request Process
+
+1. Ensure your PR description clearly describes the problem and solution
+2. Update documentation as needed
+3. All tests must pass
+
+## Questions?
+
+Open an issue for any questions or suggestions.
